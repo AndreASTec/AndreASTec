@@ -30,56 +30,36 @@ Sou uma pessoa dedicada, curiosa e persistente, que acredita que a prática diá
 
 ---
 
-## 🏆 Conquistas e Atividade
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=andreastec&theme=onedark&row=1&column=6" alt="andreastec" />
-</a>
-</p>
-
----
-
-## 🤝 Conecte-se comigo
-
-<p align="left">
-<a href="https://linkedin.com/in/dev-andre-as" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn André" height="30" width="40" />
-</a>
-</p>
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" margin>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://expressjs.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.arduino.cc/" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
 </a>
@@ -90,15 +70,24 @@ Sou uma pessoa dedicada, curiosa e persistente, que acredita que a prática diá
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreastec&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=andreastec&show_icons=true&locale=pt-br&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"
+  alt="Estatísticas do GitHub"
+/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andreastec&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreastec&layout=compact&locale=pt-br&theme=github_dark&cache_seconds=1800"
+  alt="Linguagens mais usadas"
+/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andreastec" alt="GitHub Streak"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=andreastec&theme=github-dark&hide_border=true"
+  alt="GitHub Streak"
+/>
 </p>
 
 ---
