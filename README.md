@@ -1,4 +1,4 @@
-# Prazer, me chamo André
+![andre_github](https://github.com/user-attachments/assets/7d884979-7e52-4930-963c-6fbc971a7baa)
 
 ## Desenvolvedor Full-Stack
 
