@@ -15,7 +15,7 @@
    </p>
 </div>
 
-- Cursando **Técnico em Desenvolvimento de Sistemas** na _Etec Sales Gomes_ / Termino: 06/2026
+- **Técnico em Desenvolvimento de Sistemas** na _Etec Sales Gomes_ / Inicio: 02/2025 Termino: 06/2026
 - Curso comprimentar **Desenvolvedor Full-Stack JavaScript** na _[OneBitCode](https://onebitcode.com/)_
 - Curso de Montagem e Manutenção de Computadores na Micro-Flex
 <!-- = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  -->
